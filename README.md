@@ -2,6 +2,7 @@
 
 ## [description]
 - 브랜치별로 react-testing-library를 사용해볼 것
+    - ok/how-to-use: 사용법 튜토리얼을 진행해보는 브랜치
 
 ## [author]
 - 옥현지
